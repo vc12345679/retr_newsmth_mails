@@ -6,7 +6,7 @@ A Python 3 script for retrieving personal mails from NewSMTH.net.
 
 ## 功能
 
-从水木社区（www.newsmth.net）下载指定ID的全部站内信，并保存到 指定ID.txt 文本文件内。
+从水木社区 (www.newsmth.net) 下载指定ID的全部站内信，并保存到 指定ID.txt 文本文件内。
 
 ## 使用说明
 
