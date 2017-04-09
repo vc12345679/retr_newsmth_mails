@@ -1,5 +1,6 @@
 #!/bin/env python
 # -*- encode: utf-8 -*-
+__author__='Siwei Chen <chensiwei1990@gmail.com>'
 
 import telnetlib
 import time
